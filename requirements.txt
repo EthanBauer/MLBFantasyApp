@@ -1,7 +1,4 @@
-import streamlit as st
-import pandas as pd
-import base64
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np import html5lib
-from tkinter.tix import ROW
+streamlit
+pandas
+html5lib
+base64
