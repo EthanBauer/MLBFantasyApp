@@ -1,4 +1,2 @@
 streamlit
 pandas
-html5lib
-base64

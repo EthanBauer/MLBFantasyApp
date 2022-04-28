@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import base64
-import html5lib
 
 st.title('MLB Player Stats Explorer for Fantasy')
 
